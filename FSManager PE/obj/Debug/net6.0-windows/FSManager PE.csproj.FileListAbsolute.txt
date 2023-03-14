@@ -1,0 +1,17 @@
+D:\Users\Ney\source\repos\FSManager PE\FSManager PE\bin\Debug\net6.0-windows\FSManager PE.exe
+D:\Users\Ney\source\repos\FSManager PE\FSManager PE\bin\Debug\net6.0-windows\FSManager PE.deps.json
+D:\Users\Ney\source\repos\FSManager PE\FSManager PE\bin\Debug\net6.0-windows\FSManager PE.runtimeconfig.json
+D:\Users\Ney\source\repos\FSManager PE\FSManager PE\bin\Debug\net6.0-windows\FSManager PE.dll
+D:\Users\Ney\source\repos\FSManager PE\FSManager PE\bin\Debug\net6.0-windows\FSManager PE.pdb
+D:\Users\Ney\source\repos\FSManager PE\FSManager PE\obj\Debug\net6.0-windows\FSManager PE.csproj.AssemblyReference.cache
+D:\Users\Ney\source\repos\FSManager PE\FSManager PE\obj\Debug\net6.0-windows\FSManager PE.csproj.GenerateResource.cache
+D:\Users\Ney\source\repos\FSManager PE\FSManager PE\obj\Debug\net6.0-windows\FSManager PE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ney\source\repos\FSManager PE\FSManager PE\obj\Debug\net6.0-windows\FSManager PE.AssemblyInfoInputs.cache
+D:\Users\Ney\source\repos\FSManager PE\FSManager PE\obj\Debug\net6.0-windows\FSManager PE.AssemblyInfo.cs
+D:\Users\Ney\source\repos\FSManager PE\FSManager PE\obj\Debug\net6.0-windows\FSManager PE.csproj.CoreCompileInputs.cache
+D:\Users\Ney\source\repos\FSManager PE\FSManager PE\obj\Debug\net6.0-windows\FSManager PE.dll
+D:\Users\Ney\source\repos\FSManager PE\FSManager PE\obj\Debug\net6.0-windows\refint\FSManager PE.dll
+D:\Users\Ney\source\repos\FSManager PE\FSManager PE\obj\Debug\net6.0-windows\FSManager PE.pdb
+D:\Users\Ney\source\repos\FSManager PE\FSManager PE\obj\Debug\net6.0-windows\FSManager PE.genruntimeconfig.cache
+D:\Users\Ney\source\repos\FSManager PE\FSManager PE\obj\Debug\net6.0-windows\ref\FSManager PE.dll
+D:\Users\Ney\source\repos\FSManager PE\FSManager PE\obj\Debug\net6.0-windows\FSManager_PE.PrivilegesManager.resources
